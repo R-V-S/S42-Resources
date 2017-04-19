@@ -1,0 +1,11 @@
+- A lot of times I get frustrated when I'm trying to work on something where I have so many questions that I start to feel overwhelmed. So instead of pushing forward, I stop and I try to work  through smaller problems. Or I try to break the big problem up into a lot of smaller ones, and then just focus on those.
+
+- If I start to feel frustrated, I stop and take a break. It helps to have a couple different things to do. Like, if I'm working on a problem on Code Wars and it's starting to annoy me, I switch to working on a side project... then, when I get bored of that, maybe I'll read up on something I want to learn (right now that's Angular 2). It all ties together, and it all makes me a better coder, so I don't feel guilty switching around often.
+
+- I try to learn by playing around. I jump into a REPL and I just start messing about, asking myself questions and answering them by trial and error. A REPL or console is nice because it's a no-pressure environment. Nothing's at stake.
+
+- Listen to music as you code. Music makes things feel easier, and it's a little distracting, but in a good way. Better to be a little distracted by music and feeling good than be highly focused and feeling frustrated.
+
+- Mostly, I try not to think too much. I like to not think when I'm programming. I let my fingers to the work for me – or at least that's what it feels like. But basically, if i'm trying to think hard, I'm thinking too hard. Getting to a point where coding feels effortless takes time and a lot of practice, of course, but you can get there by repeating simple tasks over and over again. For example, try to write a simple function 5 times in a row. By the 6th time you write it, you won't have to think about the proper syntax for a function.
+
+* Keep things in perspective: You're most likely to get frustrated when you're climbing up a steep learning curve. Something that might help to remember is that learning curves level off after a while. They're always steepest at the beginning, and the farther you get, the easier it gets.
