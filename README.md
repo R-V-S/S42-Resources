@@ -43,15 +43,17 @@
 
 ### Gems & Tools for Rails Development
 
-[Rails Panel: Chrome Extension ](https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg)
+[Rails Panel](https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg): Helpful Chrome Extension
 
-[better_errors: Better error page for Rack apps](https://github.com/charliesome/better_errors)
+[better_errors](https://github.com/charliesome/better_errors): A better error page
 
-[peek: Take a peek into your Rails applications.](https://github.com/peek/peek)
+[peek](https://github.com/peek/peek): Take a peek into your Rails applications
 
-[acts-as-taggable-on: A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.](https://github.com/mbleigh/acts-as-taggable-on)
+[acts-as-taggable-on](https://github.com/mbleigh/acts-as-taggable-on): A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts
 
-[CanCanCommunity/cancancan: The authorization Gem for Ruby on Rails.](https://github.com/CanCanCommunity/cancancan): A simple (but less scalable) alternative to Pundit
+[CanCanCommunity/cancancan: The authorization Gem for Ruby on Rails](https://github.com/CanCanCommunity/cancancan): A simple (but less scalable) alternative to Pundit
+
+[simple_form](https://github.com/plataformatec/simple_form): Forms made easy for Rails!
 
 ### Supplemental Topics for Rails 
 
@@ -61,7 +63,7 @@
 
 [Hi, I'm PORO — Codest](http://codesthq.com/blog/2015/hi-im-poro.html)
 
-[A Way to Organize POROs in Rails - @vrybas.(blogs).here](https://vrybas.github.io/blog/2014/08/15/a-way-to-organize-poros-in-rails/)
+[A Way to Organize POROs in Rails](https://vrybas.github.io/blog/2014/08/15/a-way-to-organize-poros-in-rails/)
 
 ### Alexa
 
@@ -73,6 +75,6 @@
 
 ### Testing
 
-[Cucumber](https://cucumber.io/)
+[Cucumber](https://cucumber.io/): Students should at least be aware of it in case it comes up in interviews
 
 
