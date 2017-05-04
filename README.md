@@ -19,7 +19,7 @@
 
 [Images and the CSS Display Property](https://codepen.io/R-V-S/pen/KzYooq)
 
-[HSL Notes](https://codepen.io/R-V-S/pen/VjmRZK): Tips to remember on how to 
+[HSL Notes](https://codepen.io/R-V-S/pen/VjmRZK): Tips on how to use HSL values
 
 [Simple Looping State Diagram](https://codepen.io/R-V-S/pen/qaAzBq): Intro to FSMs.
 
