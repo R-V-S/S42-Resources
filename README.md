@@ -4,9 +4,11 @@
 
 ### Exercises
 
+[Counter Challenge](https://codepen.io/R-V-S/pen/PmJbde): Make a simple counter. Bonus: Make it loop between 0 and 9.
+
 [Swatch Challenge](https://codepen.io/R-V-S/pen/BQxzWL): Make the "previous" and "next" buttons change the active swatch. Also make the active swatch change on click.
 
-[Todo App - Wire me up!](https://codepen.io/R-V-S/pen/ObMXmG): This Todo list just needs JavaScript for it to work!
+[Todo App - Wire me up!](https://codepen.io/R-V-S/pen/ObMXmG): This Todo app just needs JavaScript for it to work!
 
 [Phrase Scrambler/Password Generator](https://codepen.io/R-V-S/pen/PGzWxm)
 
