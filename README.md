@@ -29,6 +29,8 @@
 
 [Descendant vs Child Selector](https://codepen.io/R-V-S/pen/bwXeoK)
 
+[Using CSS classes to emulate state](https://codepen.io/R-V-S/pen/oWGVJy): An analogy for how AngularJS + UI Router work, but just using CSS classes.
+
 ### Demos
 
 [Radial Gradient Spheres in Different Materials](https://codepen.io/R-V-S/pen/jrMdyz): Faking 3D
@@ -40,6 +42,36 @@
 [Simple Rotating Cube](https://codepen.io/R-V-S/pen/kXGYdK): CSS in 3D, part II
 
 [Cube with Mouse Tracking](https://codepen.io/R-V-S/pen/YWAwVw): CSS in 3D, part III
+
+### Supplemental Topics for JavaScript
+
+[Window.localStorage - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+
+[Window.sessionStorage - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage)
+
+[IndexedDB API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+
+[Web SQL Database - Wikipedia](https://en.wikipedia.org/wiki/Web_SQL_Database): Deprecated, but links might still exist!
+
+[this - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this): Great details on lexical vs dynamic scope
+
+[ECMAScript 6: New Features: Overview and Comparison](http://es6-features.org/#Constants)
+
+[Proxy - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
+
+[eval() isn’t evil, just misunderstood - NCZOnline](https://www.nczonline.net/blog/2013/06/25/eval-isnt-evil-just-misunderstood/)
+
+[Javascript by reference vs. by value - Stack Overflow](https://stackoverflow.com/questions/6605640/javascript-by-reference-vs-by-value)
+
+[JavaScript Design Patterns - doFactory.com](http://www.dofactory.com/javascript/design-patterns)
+
+[Better JavaScript with ES6, Pt. II: A Deep Dive into Classes | Scotch](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
+
+### Supplemental Topics for HTMLs
+
+[<template> - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
+
+[WebAIM: Introduction to Web Accessibility](http://webaim.org/intro/)
 
 ## Back-end
 
